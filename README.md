@@ -3,11 +3,10 @@
 
 `GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/sticker-bay). Please, send your MRs there.
 
-# **Stickers - grab them and print them **
+# Stickers - grab them and print them
 
-Spread the word about Fediverse!
 
-#### Sticker Pack 1
+#### Sticker Pack #1
 
 ![preview screen](stickerpack-1.jpg?raw=true)
 
@@ -20,10 +19,11 @@ These stickers use some vector graphics from Pixabay ( [1](https://pixabay.com/e
 ##### License
 CC0
 
+
 ## Contributing
 
 *Please, add your sticker packs!*
 The more people contribute, the more different styles there will be.
-Add a new folder (for example, `stickerpack-2`). Then add Sticker pack 2 (authors, license, credits if necessary, preview image if possible) to README.
+Add a new folder (for example, `stickerpack-2`). Then add Sticker pack #2 (authors, license, credits if necessary, preview image if possible) to README.
 
 If you modify existing stickers and believe your modifications make original image better, please, push those modifications back. And some explanation why you did that. Thank you!
