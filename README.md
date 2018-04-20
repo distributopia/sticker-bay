@@ -1,29 +1,29 @@
 
 # :pizza: Sticker Bay
 
-`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/sticker-bay). Please, send your MRs there. Issues can still be opened here and are welcome.
+`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/sticker-bay). Please, send your MRs there.
 
-**Stickers - grab them and print them. Spread the word about Fediverse!**
+# **Stickers - grab them and print them **
 
-License - CC-BY-4.0
+Spread the word about Fediverse!
 
-## Sticker Pack 1 (WIP)
+#### Sticker Pack 1
 
-![preview screen](sp-1.jpg?raw=true)
+![preview screen](stickerpack-1.jpg?raw=true)
 
-## Credits
+##### Credits
+These stickers use some vector graphics from Pixabay ( [1](https://pixabay.com/en/cute-elephants-elephant-balloons-2757831), [2](https://pixabay.com/en/gnu-africa-animal-face-head-159596), [3](https://pixabay.com/en/animal-cartoon-comic-equine-horse-2030012), [4](https://pixabay.com/en/dragon-pet-boy-domestication-152823), [5](https://pixabay.com/en/sos-devil-bull-47037) ), and [vectorportal](http://vectorportal.com).
 
-These stickers use some vector graphics from Pixabay: [1](https://pixabay.com/en/cute-elephants-elephant-balloons-2757831), [2](https://pixabay.com/en/gnu-africa-animal-face-head-159596), [3](https://pixabay.com/en/animal-cartoon-comic-equine-horse-2030012), [4](https://pixabay.com/en/dragon-pet-boy-domestication-152823), [5](https://pixabay.com/en/sos-devil-bull-47037)
+##### Authors
+[@lostinlight](https://libenter.win)
 
-#### Authors
-* Stickerpack-1: [@lightone](https://libenter.win)
+##### License
+CC0
 
 ## Contributing
 
-*Please, add your own stickers!*
+*Please, add your sticker packs!*
 The more people contribute, the more different styles there will be.
-Add a new folder (for example, `stickerpack-2`). Don't forget to add yourself as author in README list.
+Add a new folder (for example, `stickerpack-2`). Then add Sticker pack 2 (authors, license, credits if necessary, preview image if possible) to README.
 
-The provided format is currently .PDF - that's what the printing studio I use prefers. If you believe another format is better, open an issue.
-
-If you modify existing stickers and believe your modifications make original image better, please, push those modifications back :) And some explanation why you did that. Thank you!
+If you modify existing stickers and believe your modifications make original image better, please, push those modifications back. And some explanation why you did that. Thank you!
