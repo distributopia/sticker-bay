@@ -3,3 +3,8 @@ The xcf file format can be edited with the GNU Image Manipulation Program (Gimp)
 Some of the images in this folder have been used already on https://iday.im .
 
 Images to be used for the posters advertizing decentralized social media as discussed at https://mastodonten.de/@iday/100157969295474083 can be edited here as well.
+
+
+For the file postcard_privacy_going_away_fast_dgk.odp (format LibreOffice Impress) it is necessary to install the fonts "dkg-handwriting". 
+Under Debian: 
+apt-get install fonts-dkg-handwriting
