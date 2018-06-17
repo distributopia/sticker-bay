@@ -5,25 +5,21 @@
 
 # Stickers - grab them and print them
 
+#### Sticker Pack 1
+![preview screen 1](stickerpack-1.png?raw=true)
 
-#### Sticker Pack #1
+#### Materials Pack 2
+![preview screen 2](stickerpack-2-iday.jpg?raw=true)
 
-![preview screen](stickerpack-1.png?raw=true)
-
-##### Credits
-These stickers use some vector graphics from Pixabay ( [1](https://pixabay.com/en/cute-elephants-elephant-balloons-2757831), [2](https://pixabay.com/en/gnu-africa-animal-face-head-159596), [3](https://pixabay.com/en/animal-cartoon-comic-equine-horse-2030012), [4](https://pixabay.com/en/dragon-pet-boy-domestication-152823), [5](https://pixabay.com/en/sos-devil-bull-47037) ), and [vectorportal](http://vectorportal.com).
 
 ##### Authors
-[@lostinlight](https://libenter.win)
-
-##### License
-CC0
-
+* [@lostinlight](https://libenter.win)
+* [@iday](https://mastodonten.de/@iday)
 
 ## Contributing
 
-*Please, add your sticker packs!*
-The more people contribute, the more different styles there will be.
-Add a new folder (for example, `stickerpack-2`). Then add Sticker pack #2 (authors, license, credits if necessary, preview image if possible) to README.
+**Please, add your sticker packs, postcards, posters and other promotional Fediverse materials!**
 
-If you modify existing stickers and believe your modifications make original image better, please, push those modifications back. And some explanation why you did that. Thank you!
+Add a new folder (for example, `stickerpack-3`). Then add your materials, license file, and READMe file with authors, credits, comments. Thank you!
+
+If you modify existing materials and believe your modifications make original images better, please, push those modifications back with some explanation why you made those changes.
