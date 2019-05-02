@@ -17,5 +17,9 @@
 * Uses some vector graphics from [Pixabay](https://pixabay.com) and [Public Domain Vectors](https://publicdomainvectors.org) [CC0 license]
 * Elephant SVG kindly provided by [@rash](https://chaos.social/@rash)
 
-#### License
-These images contain graphics with unknown license. In my opinion, you'll have no problems using this work or any work based on it in your promotional materials and blog posts. No need to credit the author of these images, but you may need to credit authors of the graphics these images were based on (see credits above).
+##### *Friendica promo bubbles* image
+* Uses Friendica official Flaxy O'Hare mascot, which is under CC0 license
+* LICENSE: Safely use this image - it's CC0.
+
+#### Note on license
+Some images contain graphics with unknown license. Most likely you'll have no problems using this work or any work based on it in your promotional materials and blog posts. No need to credit the author of these images, but you may wish to credit authors of the graphics these images were based on (see credits above).
