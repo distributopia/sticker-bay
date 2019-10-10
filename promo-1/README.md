@@ -2,7 +2,7 @@
 #### Promo materials 1
 
 ##### Author
-@lostinlight: https://libenter.win
+@lostinlight: https://mastodon.xyz/@lightone
 
 ##### Credits
 * Mastodon elephants from the official [press kit](https://joinmastodon.org/press-kit.zip) and from *joinmastodon.org* website, by its respective author

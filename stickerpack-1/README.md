@@ -2,7 +2,7 @@
 #### Sticker Pack 1
 
 ##### Author
-@lostinlight: https://libenter.win
+@lostinlight: https://mastodon.xyz/@lightone
 
 #### Fonts
 * Webnar Bold
