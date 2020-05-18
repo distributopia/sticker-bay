@@ -25,6 +25,9 @@
 ##### *You are in Fediverse* image
 * LICENSE: Safely use this image - it's CC0.
 
+##### *Fe-nix* image and its variations
+* LICENSE: Safely use this image, crediting the author - CC-by.
+
 ##### Credits
 * Mastodon elephants from the official [press kit](https://joinmastodon.org/press-kit.zip) and from *joinmastodon.org* website, by its respective author
 * Levitating GNU by [Nevrax Design Team](https://www.gnu.org/graphics/meditate.html)
