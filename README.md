@@ -1,7 +1,7 @@
 
 # :pizza: Sticker Bay
 
-`GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/sticker-bay). Please, send your MRs there.
+`WARNING`: This project moved to [Feneas Git](https://git.feneas.org/light/distributopia/sticker-bay). Please, send your MRs there.
 
 # Stickers - grab them and print them
 
